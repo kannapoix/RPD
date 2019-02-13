@@ -1,0 +1,27 @@
+/*
+ * Want to change this website's styes? Learn more about CSS:
+ * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
+ */
+
+body {
+  /* background: aliceblue; */
+  background: #FEDFE1;
+}
+.ui.segment.tab {
+  margin: 0;
+}
+.contents > .ui.grid {
+  margin-top: 1em;
+}
+.site {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.contents{
+  padding: 0 20px;
+  flex: 1;
+}
+footer {
+  background-color: #FA9CA3;
+}
