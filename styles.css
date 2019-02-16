@@ -5,7 +5,8 @@
 
 body {
   /* background: aliceblue; */
-  background: #FEDFE1;
+  /* background: #FEDFE1; 桜 */
+  background: #006284;
 }
 .ui.segment.tab {
   margin: 0;
@@ -23,5 +24,5 @@ body {
   flex: 1;
 }
 footer {
-  background-color: #FA9CA3;
+  background-color: #fcfaf2; /* 白練り 233 */
 }

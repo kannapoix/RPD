@@ -3,3 +3,10 @@
 
 // tab
 $('.menu .item').tab();
+
+// stick side menu
+$('.ui.sticky')
+  .sticky({
+    context: '#content-body'
+  })
+;
